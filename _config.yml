@@ -1,7 +1,7 @@
 name: HSP Shop
 favicon: null
-layout_spectrum: 0.9988239058293402
-typography_spectrum: 0.6835163796786219
+layout_spectrum: 0.71087
+typography_spectrum: 0.83239
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.8194072965998203
   lightness: 0.9154568291269243
   saturation: 0.8078540924470872
-  rhythmicContrast: 0.7164857548195869
+  rhythmicContrast: 0.5
 purpose: []
